@@ -10,13 +10,22 @@
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Ultralytics_(YOLO)-00A3E0?style=for-the-badge&logo=ultralytics&logoColor=white">
-</p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></p>
+  <img src="https://img.shields.io/badge/LeRobot-FFA000?style=for-the-badge&logo=huggingface&logoColor=black">
 
 ### Embedded & Hardware
 <p>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
   <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white">
   <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white">
+</p>
+
+### Robotics & Hardware Platforms
+<p>
+  <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white">
+  <img src="https://img.shields.io/badge/TurtleBot3-FF6F00?style=for-the-badge&logo=robot&logoColor=white">
+  <img src="https://img.shields.io/badge/OpenManipulator_X-005A9C?style=for-the-badge&logo=arm&logoColor=white">
+  <img src="https://img.shields.io/badge/Pinky_PRO-222222?style=for-the-badge&logo=hardware&logoColor=white">
 </p>
 
 ### Environment & Tools
@@ -40,7 +49,7 @@
 
 ### 3. ROS2 YOLO PID Tracking ([ROS2_yolo_pid_tracking](https://github.com/qkrrkdtj/ROS2_yolo_pid_tracking))
 > 로봇 운영체제(ROS2) 환경에서 Vision AI 알고리즘과 제어 이론을 융합한 실시간 타겟 추적 시스템
-- **Core Stacks**: `ROS2`, `YOLO`, `PID Control`, `C++ / Python`
+- **Core Stacks**: `ROS2`, `YOLO`, `PID Control`, `C++ / Python`, `Turtlebot3`
 
 ### 4. Virtual Fitting Pipeline ([virtual-fitting-pipeline](https://github.com/qkrrkdtj/virtual-fitting-pipeline))
 > 기존 가상 의류 시착(VITON) 모델의 복잡한 전처리 과정을 자동화하고, 웹에서 바로 사용할 수 있도록 만든 파이프라인
