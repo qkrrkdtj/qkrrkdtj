@@ -49,7 +49,7 @@
 
 ### 3. ROS2 YOLO PID Tracking ([ROS2_yolo_pid_tracking](https://github.com/qkrrkdtj/ROS2_yolo_pid_tracking))
 > 로봇 운영체제(ROS2) 환경에서 Vision AI 알고리즘과 제어 이론을 융합한 실시간 타겟 추적 시스템
-- **Core Stacks**: `ROS2`, `YOLO`, `PID Control`, `C++ / Python`, `Turtlebot3`
+- **Core Stacks**: `ROS2`, `YOLOv26`, `PID Control`, `C++ / Python`, `Turtlebot3`
 
 ### 4. Virtual Fitting Pipeline ([virtual-fitting-pipeline](https://github.com/qkrrkdtj/virtual-fitting-pipeline))
 > 기존 가상 의류 시착(VITON) 모델의 복잡한 전처리 과정을 자동화하고, 웹에서 바로 사용할 수 있도록 만든 파이프라인
