@@ -10,7 +10,6 @@
 <p>
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white">
   <img src="https://img.shields.io/badge/Ultralytics_(YOLO)-00A3E0?style=for-the-badge&logo=ultralytics&logoColor=white">
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"></p>
   <img src="https://img.shields.io/badge/LeRobot-FFA000?style=for-the-badge&logo=huggingface&logoColor=black">
 
 ### Embedded & Hardware
